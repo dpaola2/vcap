@@ -37,3 +37,9 @@ runtimes:
     version: 1.6.0
     version_flag: '-version'
     environment:
+  python:
+    executable: python
+    version: "Python 2.6.5"
+    version_flag: '-V'
+    environment:
+
